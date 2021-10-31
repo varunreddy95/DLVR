@@ -14,6 +14,10 @@ training_images_arr = training_images.numpy()
 training_labels_arr = training_labels.numpy()
 
 
+if __name__ == "__main__":
+    pass
+
+
 
 
 
